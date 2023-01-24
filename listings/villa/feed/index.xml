@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Villa &#8211; rent homes</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>rent homes</description>
+	<lastBuildDate>Thu, 16 Apr 2015 09:49:37 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+
+<image>
+	<url>./../../../wp-content/uploads/2023/01/Palm-realestate-logo-on-transparent-background-PNG-60x60.png</url>
+	<title>Villa &#8211; rent homes</title>
+	<link>./../../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Modern &#038; Spacious Villa</title>
+		<link>./../../../properties/modern-spacious-villa/index.html</link>
+					<comments>./../../../properties/modern-spacious-villa/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[secure99]]></dc:creator>
+		<pubDate>Thu, 16 Apr 2015 09:49:37 +0000</pubDate>
+				<guid isPermaLink="false">http://demo1.wprentals.org/?post_type=estate_property&#038;p=141</guid>
+
+					<description><![CDATA[This spacious and modern 1 bedroom with balcony is located on Essex and Stanton in the Lower East Side (close to the Hotel on Rivington) in a brand new building with elevator and a rooftop deck with spectacular city views. The apartment gets tons of light and comes with modern amenities including centralized heat/AC (vital ...]]></description>
+										<content:encoded><![CDATA[<p>This spacious and modern 1 bedroom with balcony is located on Essex and Stanton in the Lower East Side (close to the Hotel on Rivington) in a brand new building with elevator and a rooftop deck with spectacular city views.</p>
+<p>The apartment gets tons of light and comes with modern amenities including centralized heat/AC (vital in both the summer and winter months), 50 inch HD-TV, high-speed wireless, dishwasher, and washer and dryer in the basement. It has a roomy interior with an open kitchen and spacious bathroom, and comes fully furnished with loveseat, futon, coffee/dining table and chairs, desk, and queen-sized bed. Up to 4 people can sleep. Fresh linens and towels provided, as well as free advice on tourist attractions and assistance in traveling around NYC if needed! My assistant, Alice, lives just a few minutes away, and is on hand to handle all of your questions and needs.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../properties/modern-spacious-villa/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Huge Sunny Villa &#8211; East Side</title>
+		<link>./../../../properties/huge-sunny-villa-east-side/index.html</link>
+					<comments>./../../../properties/huge-sunny-villa-east-side/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[secure99]]></dc:creator>
+		<pubDate>Thu, 16 Apr 2015 09:41:41 +0000</pubDate>
+				<guid isPermaLink="false">http://demo1.wprentals.org/?post_type=estate_property&#038;p=137</guid>
+
+					<description><![CDATA[Enjoy a huge bedroom in a newly renovated 1000 sq feet, 3 bedroom, apartment with all the amenities. It has a fully functional kitchen with cookware and a bathroom with all the essentials and a dryer. The apartment is located right in the middle of all the most convenient, vibrant, and fun neighborhoods in NYC.]]></description>
+										<content:encoded><![CDATA[<p>Enjoy a huge bedroom in a newly renovated 1000 sq feet, 3 bedroom, apartment with all the amenities. It has a fully functional kitchen with cookware and a bathroom with all the essentials and a dryer.</p>
+<p>The apartment is located right in the middle of all the most convenient, vibrant, and fun neighborhoods in NYC.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../properties/huge-sunny-villa-east-side/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>House &#8211; rent homes</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>rent homes</description>
+	<lastBuildDate>Wed, 15 Apr 2015 12:08:38 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+
+<image>
+	<url>./../../../wp-content/uploads/2023/01/Palm-realestate-logo-on-transparent-background-PNG-60x60.png</url>
+	<title>House &#8211; rent homes</title>
+	<link>./../../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Sunny 2 Bedrooms Video</title>
+		<link>./../../../properties/sunny-2-bedrooms-in-the-haight/index.html</link>
+					<comments>./../../../properties/sunny-2-bedrooms-in-the-haight/index.html#comments</comments>
+		
+		<dc:creator><![CDATA[secure99]]></dc:creator>
+		<pubDate>Wed, 15 Apr 2015 12:08:38 +0000</pubDate>
+				<guid isPermaLink="false">http://demo1.wprentals.org/?post_type=estate_property&#038;p=107</guid>
+
+					<description><![CDATA[This apartment has great light and a cool vibe. By the time noon rolls along, until the sunset, you are getting direct natural sunlight. One bedroom is bigger than the other and that bedroom is significantly brighter. Nonetheless both rooms are very comfortable. Living room has a great succulent garden. Guests have access to the ...]]></description>
+										<content:encoded><![CDATA[<p>This apartment has great light and a cool vibe. By the time noon rolls along, until the sunset, you are getting direct natural sunlight. One bedroom is bigger than the other and that bedroom is significantly brighter. Nonetheless both rooms are very comfortable.</p>
+<p>Living room has a great succulent garden.</p>
+<p>Guests have access to the full apartment, nothing is off limits. They can even hang with our awesome downstairs neighbors at no extra cost.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../properties/sunny-2-bedrooms-in-the-haight/feed/index.html</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Chic Cole Valley House</title>
+		<link>./../../../properties/chic-cole-valley-house/index.html</link>
+					<comments>./../../../properties/chic-cole-valley-house/index.html#comments</comments>
+		
+		<dc:creator><![CDATA[secure99]]></dc:creator>
+		<pubDate>Wed, 15 Apr 2015 11:43:45 +0000</pubDate>
+				<guid isPermaLink="false">http://demo1.wprentals.org/?post_type=estate_property&#038;p=101</guid>
+
+					<description><![CDATA[This chic and cool studio apartment in a charming Victorian home in Cole Valley merges the best of San Francisco, with classic 19th century architecture on the exterior, and a newly remodeled, beautiful studio apartment that features mod design and a cheerful and vibrant color scheme in the interior. There is a fully outfitted kitchen ...]]></description>
+										<content:encoded><![CDATA[<p>This chic and cool studio apartment in a charming Victorian home in Cole Valley merges the best of San Francisco, with classic 19th century architecture on the exterior, and a newly remodeled, beautiful studio apartment that features mod design and a cheerful and vibrant color scheme in the interior.</p>
+<p>There is a fully outfitted kitchen with 4 stools and retro-chic tableware, perfect for cocktails. And speaking of cocktails, the neighborhood is lovely if you like great food and cocktails. A close walk to Cole Street, you can feast on gourmet tacos and drinks at local favorite Padrecito, topping it off with caramelized honey, creme fraiche and roasted pineapple sundaes at the Ice Cream Bar, also a fan favorite on Cole Street.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../properties/chic-cole-valley-house/feed/index.html</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
